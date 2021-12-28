@@ -3,7 +3,7 @@
     "description": "PHP API SDK Client for Acelle Mail",
     "require": {
         "monolog/monolog": "2.*",
-        "guzzlehttp/guzzle": "^9.0"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "autoload": {
         "psr-4": {"Acelle\\": "src/"}
